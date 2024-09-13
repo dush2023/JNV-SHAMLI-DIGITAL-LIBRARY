@@ -50,7 +50,7 @@
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
-                <Ii class="dropdown"></Ii>Ii>
+                <Ii class="dropdown"></Ii>
                 <li><a href="#">About</a></li>
                 <li><a href="#">Services</a></li>
                 <li><a href="#">Contact</a></li>
