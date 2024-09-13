@@ -48,7 +48,7 @@ WELCOME TO PM SHRI JNV SHAMLI DIGITAL LIBRARY
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to JNV SHAMLI LIBRARY</h1>
         <nav>
             <ul>
                 <li><a href="#">Home</a></li>
