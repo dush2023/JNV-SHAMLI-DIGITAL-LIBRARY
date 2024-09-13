@@ -57,12 +57,7 @@
         </nav>
     </header>
     
-    <main>
-        <h2>Main Content Area</h2>
-        <p>This is where your main content will go. You can add text, images, or any other HTML elements here.</p>
-    </main>
-    
-    <footer>
+   
         <p>&copy; 2024 My Website. All rights reserved.</p>
     </footer>
 </body>
